@@ -1,19 +1,2 @@
 <h1>ReadMe</h1>
-## THIS is the definitive guide to nothing
-This will help no one
-ITs just a try
-<p> This is asim neupane trying to learn markdown
-This is awesome features
-You will like it.</p>
-<br />
-<blockquote>
-<p> This is asim neupane trying to learn markdown
-This is awesome features
-You will like it.</p>
-</blockquote>
-
-<ul>
-<li>Apple</li>
-<li>oranges</li>
-<li>Banana</li>
-</ul>
+Here, I will make database for XYZ Property Management. XYX is a property management company that works as a mediator between the property owner and the lease seeker. Particularly they lease property from the owner and leases them to client.
