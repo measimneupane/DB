@@ -12,7 +12,8 @@ This is awesome features
 You will like it.</p>
 </blockquote>
 
-List
-*A
-*B
-*C
+<ul>
+<li>Apple</li>
+<li>oranges</li>
+<li>Banana</li>
+</ul>
